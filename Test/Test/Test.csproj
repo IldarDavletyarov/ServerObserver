@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+        <PackageReference Include="Google.Apis.Sheets.v4" Version="1.48.0.2028" />
+        <PackageReference Include="Npgsql" Version="4.1.4" />
+        <PackageReference Include="System.Threading.ThreadPool" Version="4.3.0" />
+    </ItemGroup>
+</Project>

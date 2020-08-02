@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8B907CD5-82AB-46DD-9458-97B1EE3F7910}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Test.csproj">
+    <Files>
+      <File FileName="Test/Program.cs" Line="23" Column="1" />
+      <File FileName="Test/Observer.cs" Line="35" Column="1" />
+      <File FileName="Test/ServerInfo.cs" Line="23" Column="12" />
+      <File FileName="Test/app.config" Line="15" Column="17" />
+      <File FileName="Test/GService.cs" Line="48" Column="24" />
+      <File FileName="Test/credits.json" />
+      <File FileName="Test/DatabaseInfo.cs" />
+      <File FileName="Test/Test.csproj" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="Test" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

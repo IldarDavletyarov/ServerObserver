@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Test</name>
+    </assembly>
+    <members>
+        <member name="T:Test.DatabaseInfo">
+            <summary>
+            Database information with name and size in GB
+            </summary>
+        </member>
+        <member name="T:Test.Observer">
+            <summary>
+            The observer monitors the list of servers and updates the database information after a certain delay
+            </summary>
+        </member>
+        <member name="T:Test.Program">
+            <summary>
+            Main class.
+            Get information from app.config and run monitoring
+            </summary>
+        </member>
+        <member name="T:Test.ServerInfo">
+            <summary>
+            Contains information about the size of the server.
+            Has methods for getting lists of databases, their sizes  
+            </summary>
+        </member>
+    </members>
+</doc>
