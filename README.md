@@ -1,8 +1,8 @@
-# Мониторинг сервера
-## Что это?
+# Server Observer
+## What is it?
 ServerObserver allows you to monitor the status of a remote database on Postgres within Google Sheets in real time.
-## Как работать:
-### Подключаем GoogleSheets:
+## How works:
+### Connect GoogleSheets:
 Pre-create a table and remember its id.
 Example: docs.google.com/spreadsheets/d/__1qJodoeJxOdVFUy8SqGApvgtAKygl2Ww4XHKMslQqO1M__ - id in bold.
 Go to [link](https://console.developers.google.com/apis/library/sheets.googleapis.com) and enable api on your account.
